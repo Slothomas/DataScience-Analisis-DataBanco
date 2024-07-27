@@ -1,9 +1,9 @@
 ### Tecnologias Utilizadas
 
 <p align="center">
-    <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1_H4jzZXwJEIAEkTMNrp8k_w.png" alt="Google Colab, Jupyter Notebook" width="300" height="150"/>
-  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1_-ganvHfXEbn6oYk-krRpIg.jpg" alt="Azure Machine Learning" width="300" height="150"/>
-  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1706704587188.png" alt="Pandas, Python" width="300" height="150"/>
+    <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1_H4jzZXwJEIAEkTMNrp8k_w.png" alt="Google Colab, Jupyter Notebook" width="280" height="140"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1_-ganvHfXEbn6oYk-krRpIg.jpg" alt="Azure Machine Learning" width="280" height="140"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1706704587188.png" alt="Pandas, Python" width="280" height="140"/>
 </p>
 
 # DataScience-Analisis-DataBanco
