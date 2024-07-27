@@ -69,15 +69,15 @@ En este modelo, se utilizó el archivo 'german_credit_procesadov1.csv' sin aplic
     <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados.png" alt="Resultados Generales" width="905"/>
     </p>
 <p align="center">
-  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados-matrix.png" alt="Matriz de Confusión" width="450" height="300"/>
-  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados-recallpng.png" alt="Precisión y Recall" width="450" height="300"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados-matrix.png" alt="Matriz de Confusión" width="425" height="280"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados-recallpng.png" alt="Precisión y Recall" width="425" height="280"/>
 </p>
 
 #### - Modelo 2:
 Para este modelo, se utilizó el archivo 'german_credit_procesadov2.csv', que incluye la ingeniería de características del paso 2 y el balanceo de clases del paso 4. Se empleó un modelo de machine learning de clasificación con validación cruzada de k iteraciones y 8 validaciones cruzadas, una más que el modelo anterior, también durante una hora. El mejor resultado obtenido fue un Accuracy de 0.7346501, lo cual representa una mejora significativa, duplicando el indicador y resultando en un modelo más confiable y preciso.
 
 <p align="center">
-    <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados.png" alt="Resultados Generales" width="905"/>
+    <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados.png" alt="Resultados Generales" width="855"/>
 </p>
 <p align="center">
   <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados-matrix.png" alt="Matriz de Confusión" width="450" height="300"/>
