@@ -62,5 +62,27 @@ Entrena el modelo de clasificación y despliega el modelo en Azure para su uso e
 
 > <a href="https://colab.research.google.com/drive/1BIE0tmq9tkw9slaO_eUOE0fP_0CObn0T#scrollTo=uX_xdGTAwZxC&uniqifier=1" target="_blank">Paso 5</a>
 
-#### - Modelo 1 :
-Para este modelo se utilizo el archivo 'german_credit_procesadov1.csv' sin aplicar la ingeneria de caracteristicas con un modelo de Machine Learning de clasificacion con una validacion cruzada de k iteraciones con 7 validaciones cruzadas por un tiempo de una hora y tenemos un resultado de **Accuracy** de 0.3539489 en el mejor modelo, lo cual es bastante bajo y tiene un gran margen de mejora. 
+#### - Modelo 1:
+En este modelo, se utilizó el archivo 'german_credit_procesadov1.csv' sin aplicar ingeniería de características. Se empleó un modelo de machine learning de clasificación con validación cruzada de k iteraciones y 7 validaciones cruzadas durante una hora. El mejor resultado obtenido fue un Accuracy de 0.3539489, indicando un margen significativo para mejorar.
+
+<p align="center">
+    <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados.png" alt="Resultados Generales" width="905"/>
+    </p>
+<p align="center">
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados-matrix.png" alt="Matriz de Confusión" width="450" height="300"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo1resultados-recallpng.png" alt="Precisión y Recall" width="450" height="300"/>
+</p>
+
+#### - Modelo 2:
+Para este modelo, se utilizó el archivo 'german_credit_procesadov2.csv', que incluye la ingeniería de características del paso 2 y el balanceo de clases del paso 4. Se empleó un modelo de machine learning de clasificación con validación cruzada de k iteraciones y 8 validaciones cruzadas, una más que el modelo anterior, también durante una hora. El mejor resultado obtenido fue un Accuracy de 0.7346501, lo cual representa una mejora significativa, duplicando el indicador y resultando en un modelo más confiable y preciso.
+
+<p align="center">
+    <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados.png" alt="Resultados Generales" width="905"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados-matrix.png" alt="Matriz de Confusión" width="450" height="300"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados-recallpng.png" alt="Precisión y Recall" width="450" height="300"/>
+</p>
+
+#### ¿Qué queda por delante?
+Para avanzar, se deben considerar los siguientes pasos: obtener una base de datos más grande para mejorar el entrenamiento del modelo, aplicar una ingeniería de características más profunda, seguir experimentando con diferentes modelos, y generar filtros más específicos en las categorías. Estos esfuerzos tienen como objetivo incrementar el KPI de **accuracy** y lograr un modelo más preciso y confiable.
