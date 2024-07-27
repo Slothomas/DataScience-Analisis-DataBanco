@@ -23,3 +23,19 @@ Implementar un modelo de Machine Learning para predecir el propósito de las sol
 - Optimizar Ofertas de Productos: Ajustar las ofertas de crédito según las necesidades y propósitos identificados, mejorando así la relevancia y el impacto de las ofertas.
 - Mejorar la Experiencia del Cliente: Ofrecer productos y servicios que se alineen mejor con las intenciones y necesidades de los clientes, aumentando su satisfacción y lealtad.
 - El enfoque en la predicción precisa del propósito de las solicitudes permitirá una toma de decisiones más informada, una asignación de recursos más eficiente y una mejora general en la experiencia del cliente.
+
+
+## Paso 1: ETL
+Carga, estandariza y limpia los datos, convirtiéndolos a un formato numérico adecuado para su procesamiento en Azure.
+
+## Paso 2: Ingeniería de Características o Datos
+Crea nuevas características, categoriza y agrupa los datos para mejorar la precisión del modelo de Machine Learning en Azure.
+
+## Paso 3: Análisis Exploratorio
+Realiza un análisis visual y estadístico para comprender los datos, identificar patrones y detectar anomalías.
+
+## Paso 4: Balanceo de Clases y Preparación de los Archivos para el Modelo
+Aplica SMOTE para balancear las clases y utiliza train_test_split() para preparar conjuntos de datos de entrenamiento y prueba.
+
+## Paso 5: Entrenamiento y Despliegue del Modelo de Clasificación ML
+Entrena el modelo de clasificación y despliega el modelo en Azure para su uso en producción.
