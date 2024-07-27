@@ -1,3 +1,10 @@
+### Tecnologia Utilizada
+
+<p align="center">
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1_-ganvHfXEbn6oYk-krRpIg.jpg" alt="Azure Machine Learning" width="400" height="200"/>
+  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1706704587188.png" alt="Pandas, Python" width="400" height="200"/>
+</p>
+
 # DataScience-Analisis-DataBanco
 Analisis de datos de un banco para limpieza de datos, aplicar ingeneria de datos y construir modelo Machine Learning en la nube Azure
 
@@ -51,10 +58,5 @@ Aplica SMOTE para balancear las clases y utiliza train_test_split() para prepara
 
 ## Paso 5: Entrenamiento y Despliegue del Modelo de Clasificación ML
 Entrena el modelo de clasificación y despliega el modelo en Azure para su uso en producción.
-
-<p align="center">
-  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1_-ganvHfXEbn6oYk-krRpIg.jpg" alt="Azure Machine Learning" width="400" height="200"/>
-  <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/1706704587188.png" alt="Pandas, Python" width="400" height="200"/>
-</p>
 
 > <a href="https://colab.research.google.com/drive/1BIE0tmq9tkw9slaO_eUOE0fP_0CObn0T#scrollTo=uX_xdGTAwZxC&uniqifier=1" target="_blank">Paso 5</a>
