@@ -84,5 +84,5 @@ Para este modelo, se utilizó el archivo 'german_credit_procesadov2.csv', que in
   <img src="https://github.com/Slothomas/DataScience-Analisis-DataBanco/blob/main/img/modelo2resultados-recallpng.png" alt="Precisión y Recall" width="450" height="300"/>
 </p>
 
-#### ¿Qué queda por delante?
+## ¿Qué queda por delante?
 Para avanzar, se deben considerar los siguientes pasos: obtener una base de datos más grande para mejorar el entrenamiento del modelo, aplicar una ingeniería de características más profunda, seguir experimentando con diferentes modelos, y generar filtros más específicos en las categorías. Estos esfuerzos tienen como objetivo incrementar el KPI de **accuracy** y lograr un modelo más preciso y confiable.
