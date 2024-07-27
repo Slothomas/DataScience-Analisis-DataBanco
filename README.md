@@ -57,6 +57,8 @@ Aplica SMOTE para balancear las clases y utiliza train_test_split() para prepara
 ## Paso 5: Entrenamiento y Despliegue del Modelo de Clasificación ML
 Entrena el modelo de clasificación y despliega el modelo en Azure para su uso en producción.
 
+#### **--- API disponible hasta el 15 de Agosto por temas economicos ---**
+
 > <a href="https://colab.research.google.com/drive/1BIE0tmq9tkw9slaO_eUOE0fP_0CObn0T#scrollTo=uX_xdGTAwZxC&uniqifier=1" target="_blank">Paso 5</a>
 
 #### 🔍 Modelo 1 🔍
