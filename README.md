@@ -42,7 +42,7 @@ Carga, estandariza y limpia los datos, convirtiéndolos a un formato numérico a
 
 > <a href="https://colab.research.google.com/drive/1BIE0tmq9tkw9slaO_eUOE0fP_0CObn0T#scrollTo=_PVF66liu2Ur&uniqifier=1" target="_blank">Paso 1</a>
 
-## Paso 2: Ingeniería de Características o Datos
+## Paso 2: Ingeniería de Características
 Crea nuevas características, categoriza y agrupa los datos para mejorar la precisión del modelo de Machine Learning en Azure.
 
 > <a href="https://colab.research.google.com/drive/1BIE0tmq9tkw9slaO_eUOE0fP_0CObn0T#scrollTo=e620Nyvyv0Lu&uniqifier=1" target="_blank">Paso 2</a>
@@ -61,3 +61,6 @@ Aplica SMOTE para balancear las clases y utiliza train_test_split() para prepara
 Entrena el modelo de clasificación y despliega el modelo en Azure para su uso en producción.
 
 > <a href="https://colab.research.google.com/drive/1BIE0tmq9tkw9slaO_eUOE0fP_0CObn0T#scrollTo=uX_xdGTAwZxC&uniqifier=1" target="_blank">Paso 5</a>
+
+#### - Modelo 1 :
+Para este modelo se utilizo el archivo 'german_credit_procesadov1.csv' sin aplicar la ingeneria de caracteristicas con un modelo de Machine Learning de clasificacion con una validacion cruzada de k iteraciones con 7 validaciones cruzadas por un tiempo de una hora y tenemos un resultado de **Accuracy** de 0.3539489 en el mejor modelo, lo cual es bastante bajo y tiene un gran margen de mejora. 
